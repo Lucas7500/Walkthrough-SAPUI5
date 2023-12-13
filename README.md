@@ -1,4 +1,5 @@
 # Walkthrough-SAPUI5
+
  
 # Global installation to have the command available
 npm install --global @ui5/cli
